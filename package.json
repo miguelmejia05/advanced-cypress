@@ -1,0 +1,22 @@
+{
+  "name": "advanced-cypress",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000y\u0000p\u0000r\u0000e\u0000s\u0000s\u0000-\u0000t\u0000r\u0000a\u0000i\u0000n\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelmejia05/advanced-cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Miguel Mejia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmejia05/advanced-cypress/issues"
+  },
+  "homepage": "https://github.com/miguelmejia05/advanced-cypress#readme"
+}
