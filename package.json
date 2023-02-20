@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/miguelmejia05/advanced-cypress/issues"
   },
-  "homepage": "https://github.com/miguelmejia05/advanced-cypress#readme"
+  "homepage": "https://github.com/miguelmejia05/advanced-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
 }
